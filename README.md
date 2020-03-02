@@ -1,12 +1,12 @@
 # untitled-space-ascii-game
-It's navigable star chart in space.
+A navigable star chart in space.
 
-It's a three dimentional ascii game, with six directional movement in a star chart. Character offset and layers are used to produce a faux 3D effect.
+This untitled space game is a three dimentional ascii game, with six directional movement in a star chart. Character offset and layers are used to produce a faux 3D effect.
 
 Brought to you by Python and BearLibTerminal
 
 Goals:
-* fun
+* Fun
 * Selecting a star will bring you to a solar system map, with multi-tile sun, planets and moons.
 * Selecting a planet or moon will load a terrain map to fly over.
 * Landing on the terrain will load a map for exploring on foot.
