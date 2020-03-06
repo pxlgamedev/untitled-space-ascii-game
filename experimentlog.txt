@@ -1,0 +1,63 @@
+[Starship Icarous: The experiment]
+
+The theorem is sound.
+The experiments in Stellar Field manipulation were a rousing success.
+
+Even if only for an instant.
+
+Today, we initialize the first full scale Stellar Drive.
+All eyes are watching. The entire solar system holds its breath.
+
+We have been reaching for the stars, but we have yet to touch them.
+Today that will change.
+
+The Icarous will prove my theory once and for all.
+Earning the title of Earth's first Starship.
+
+
+[Automated output log]
+Initializing: stellar drive warm-up sequence
+Readings: within expected output range
+Stellar drive output: 2%
+Stellar wave formation: inconclusive
+Increasing output to: 10%
+
+[Alert]
+External sensors: Explosion detected
+Analyzing...
+Explosive decompression detected: space station Excelsior
+
+[Alert]
+Stellar wave formation: exceeding parameters
+Calculation: current ship sensors inadequate
+Initial formation is outside detectable range
+Stellar wave formation: expanding beyond maximum tolerance
+Calculation: exponential range increases at factor 12
+
+[Alert]
+External sensors: additional explosions detected
+Analyzing...
+Nearby vessels are experiencing spatial distortion
+Stellar drive output: 15%
+Calculation: drive is exceeding output range
+
+[Emergency Override]
+Stellar drive shutdown sequence: unresponsive
+Stellar drive output: 20%
+Analyzing...
+Stellar wave formation does not conform to standard principles
+Accessing: theoretical files
+Stellar wave formation appears to confirm sub-space theorem
+Power syphoned from external dimension
+Initializing:
+
+[Emergency Shutdown Protocol]
+Stellar Drive: powering down
+ERROR: power down unsuccessful
+Complete System Shutdown in 300 milliseconds
+
+[Alert]
+External Sensors: stellar cartography mismatch
+Analyzing...
+
+[End of log]
